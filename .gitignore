@@ -1,5 +1,4 @@
 .gitignore.bak
 Eage Detection.opensdf
 *.bak
-Eage Detection/
-!Eage Detection/main.cpp
+*.jpg
