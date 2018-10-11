@@ -2,4 +2,4 @@
 Eage Detection.opensdf
 *.bak
 Eage Detection/
-!*.cpp
+!Eage Detection/main.cpp
