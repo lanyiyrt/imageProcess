@@ -1,0 +1,5 @@
+.gitignore.bak
+Eage Detection.opensdf
+*.bak
+Eage Detection/
+!*.cpp
